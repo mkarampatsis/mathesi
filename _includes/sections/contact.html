@@ -1,0 +1,92 @@
+<!-- Contact Section -->
+<section class="site-section contact-section next-section-indicator parallax" id="contact"  data-scrollax-parent="true">
+
+  <!-- Parallax Contact Image -->
+  <div class="cover" data-scrollax="properties: { 'translateY': '48%' }">
+    <img src="{{ site.baseurl }}/images/contact-image.jpg" alt="Sera - One Page Template by Gleesik Wallpaper" />
+  </div>
+
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row text-center">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h2>{{ site.contact-title }}</h2>
+        <hr class="normal">
+      </header>
+
+      <!-- Section Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        <p>{{ site.contact-description }}</p>
+      </div>
+      <br><br>
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2235.909797686779!2d12.495630100000001!3d55.916264399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465248182f424de7%3A0x2ac8936ac3b98633!2sUller%C3%B8dvej%209%2C%202980%20Kokkedal%2C%20Denmark!5e0!3m2!1sen!2sgr!4v1687944858160!5m2!1sen!2sgr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+      </div>
+    </div>
+    
+    <!-- Form Container -->
+    <!-- <div class="row form-container"> -->
+
+      <!-- Contact Form -->
+      <!-- <div class="col-md-8 col-md-push-2">
+        <form id="sera-contact-form" action="https://formspree.io/{{ site.email }}" method="POST" class="contact-form container-fluid">
+          <div class="col-md-6">
+            <input type="text" name="name" placeholder="Name" />
+          </div>
+          <div class="col-md-6">
+            <input type="text" name="website" placeholder="Website" />
+          </div>
+          <div class="col-md-6">
+            <input type="text" name="email" placeholder="Email" />
+          </div>
+          <div class="col-md-6">
+            <input type="text" name="subject" placeholder="Subject" />
+          </div>
+          <div class="col-md-12">
+            <textarea name="message" rows="8" cols="40" placeholder="Message"></textarea>
+          </div>
+          <div class="col-md-12 form-action">
+            <button type="submit" class="send-button">Send Message</button>
+          </div>
+        </form>
+      </div> -->
+    </div>
+    
+  </div>
+</section>
+
+<!-- Google Map Embed -->
+<div class="google-map">
+
+  <!-- <script src="http://maps.googleapis.com/maps/api/js?key={{ site.key-api }}"></script>
+  <div style='overflow:hidden;height:490px;width:100%;'>
+      <div id='gmap_canvas' style='height:490px;width:100%;'></div>
+  </div>
+  <script type='text/javascript'>
+      function init_map() {
+          var myOptions = {
+              zoom: 10,
+              scrollwheel: false,
+              center: new google.maps.LatLng( {{ site.map-lat }}, {{ site.map-lng }} ),
+              mapTypeId: google.maps.MapTypeId.ROADMAP
+          };
+          map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
+          marker = new google.maps.Marker({
+              map: map,
+              position: new google.maps.LatLng( {{ site.map-lat }}, {{ site.map-lng }} )
+          });
+          infowindow = new google.maps.InfoWindow({
+              content: '<span><strong>{{ site.map-text }}</strong><br>{{ site.map-text-location }}<br><span>'
+          });
+          google.maps.event.addListener(marker, 'click', function() {
+              infowindow.open(map, marker);
+          });
+          infowindow.open(map, marker);
+      }
+      google.maps.event.addDomListener(window, 'load', init_map);
+  </script> -->
+  
+</div>
