@@ -262,7 +262,7 @@ research-description: <p>Develop a holistic machine learning aided optimum desig
 ########### Testimonials ############
 #####################################
 testimonials-title: Meet Our Team
-testimonials-description: The people behind Infersence platform.
+testimonials-description: The people behind Mathesi platform.
 
 #
 # Testimonials
@@ -301,7 +301,7 @@ testimonials:
   title: Software Developer (Machine Learning)
   url: https://www.linkedin.com/in/panteleimon-tsakalis-881ba413a/
   url-text: LinkedIn
-  avatar: Pantelis.jpg
+  avatar: pantelis.jpg
   cite: Working on R&D in nanostructures and applied ML, programming geek, cloud-based databases developer.
   logo-img: videohive.png
 
