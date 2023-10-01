@@ -282,7 +282,7 @@ testimonials:
 - name: Nikolaos Lagaros
   title: Board Member
   url: http://users.ntua.gr/nlagaros/
-  url-text: Homipage
+  url-text: Homepage
   avatar: lagaros.jpg
   cite: Nikos D. Lagaros, Dean of the School of Civil Engineering at the National Technical University of Athens, Director of the Personal Computers Laboratory, Professor of Structural Engineering. Nikos also served as Visiting Professor at MIT and McGill University. A focus of his consulting work is the assessment of buildings after earthquake events and the development of technical software for structural analysis and design optimization.
   logo-img: codecanyon.png
@@ -326,7 +326,7 @@ blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. 
 ############### Team ################
 #####################################
 team-title: Meet Our Team
-team-description: The people behind Infersence platform.
+team-description: The people behind Mathesi platform.
 
 #
 # Team Members
@@ -334,9 +334,9 @@ team-description: The people behind Infersence platform.
 team:
 
 # Team Member
-- name: Jack Skilton
-  tagline: Graphic Designer
-  avatar: avatar-01.jpg
+- name: Christos T. Georgakis
+  tagline: Board Member
+  avatar: georgakis.png
 
   # Social Links
   youtube: '#'
@@ -345,11 +345,12 @@ team:
   twitter: '#'
   google-plus: '#'
   vimeo: '#'
+  linkedin : 'https://www.linkedin.com/in/chara-mitropoulou-a6a7093b/'
 
 # Team Member
-- name: James Young
-  tagline: Developer
-  avatar: avatar-02.jpg
+- name: Nikolaos Lagaros
+  tagline: Board Member
+  avatar: lagaros.png
 
   # Social Links
   youtube: '#'
@@ -358,11 +359,12 @@ team:
   twitter: '#'
   google-plus: '#'
   vimeo: '#'
+  linkedin: https://gr.linkedin.com/in/nikos-lagaros-086323
 
 # Team Member
-- name: Johnatan Doe
-  tagline: Hacker
-  avatar: avatar-04.jpg
+- name: Cristoforo Demartino
+  tagline: Board Member
+  avatar: lagaros.png
 
   # Social Links
   youtube: '#'
@@ -371,11 +373,12 @@ team:
   twitter: '#'
   google-plus: '#'
   vimeo: '#'
+  linkedin: https://gr.linkedin.com/in/nikos-lagaros-086323
 
 # Team Member
-- name: Ecaterina Doe
-  tagline: Support Expert
-  avatar: avatar-03.jpg
+- name: Panteleimon Tsakalis
+  tagline: Software Developer (Machine Learning)
+  avatar: pantelis.png
 
   # Social Links
   youtube: '#'
@@ -384,6 +387,21 @@ team:
   twitter: '#'
   google-plus: '#'
   vimeo: '#'
+  linkedin: 'https://www.linkedin.com/in/panteleimon-tsakalis-881ba413a/'
+
+# Team Member
+- name: Ilias Chamatidis
+  tagline: Machine Learning Engineer
+  avatar: chamatidis.png
+
+  # Social Links
+  youtube: '#'
+  pinterest: '#'
+  facebook: '#'
+  twitter: '#'
+  google-plus: '#'
+  vimeo: '#'
+  linkedin: 'https://www.linkedin.com/in/ilias-chamatidis-840a011a4/'
 
 
 #####################################
