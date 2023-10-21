@@ -53,7 +53,7 @@ lang: en-US
 # Header Title
 header-title: Managing Risk
 # Header Tagline
-headter-tagline: Mathesi
+header-tagline: Mathesi
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -318,7 +318,7 @@ testimonials:
 #####################################
 ############# Our Blog ##############
 #####################################
-blog-title: Our Blog
+blog-title: Case Study
 blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 
