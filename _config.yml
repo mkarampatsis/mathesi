@@ -138,7 +138,7 @@ mailchimp:
 # about-title: Data Inference for decision support based on ML Sense.
 about-title: About
 #about-description: We deliver a range of direct consulting services and tailor made applications for customer-specific demands by bridging massive data assets with intuitive AI frameworks, forming decision support solutions. Capitalizing on solid experience in multi-disciplinary high-profile engineering research, Infersence aims to establish new boundaries in AI exploitation within higher order complexity processes of diverse domains. Stay ahead of your competition by introducing Infersence’s added value to your practices.
-about-description: Mathesi, derived from the Greek word "μάθηση" (pronounced "mathesi"), meaning "learning" or "knowledge," is a cutting-edge risk management enterprise specializing in the protection of infrastructure systems. Our mission is to safeguard vital structures and networks, ensuring long-term resilience and stability in an ever-changing world.
+about-description: <p>Mathesi, derived from the Greek word "μάθηση" (pronounced "mathesi"), meaning "learning" or "knowledge," is a cutting-edge risk management and decision support enterprise specializing in the protection of infrastructure and short-term event predictions. Our mission is to improve safety and enhance the decision process in all environments.</p><p>We use state-of-the-art and proprietary data driven and physical models to hyperlocaly predict almost any risk-associated or financially beneficial parameter of interest, including meteorological conditions, infrequent hazardous conditions, system wear and fatigue, environmental quality, or any other similar parameter of interest.</p><p>Furthermore, we implement AI algorithms to automate decision processes.</p>
 
 #####################################
 #############  Features  ############
@@ -152,18 +152,18 @@ features-description:
 features:
 
 # Feature
-- title: Hyperlocal Forecasting
-  description: Continuous forecasting of multiple weather variables on exact locations
+- title: Hyperlocal predictions
+  description: Continuous forecasting of multiple parameters locally
   icon: pe-7s-vector
 
 # Feature
-- title: Risk Assessment
-  description: Advanced evaluation risk of client specified  events/metrics
+- title: Risk & Gain Assessment
+  description: Advanced evaluation of risk and gain of client-specified events/metrics
   icon: pe-7s-help2
 
 # Feature
-- title: Early Warning
-  description: Receive ahead of time warnings when fine tuned thresholds and intervals are exceeded
+- title: Early Warning and AI
+  description: Receive advanced warnings when fine-tuned thresholds and intervals are exceeded and calibrated AI for automated decisions
   icon: pe-7s-airplay
 
 # Feature

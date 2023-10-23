@@ -4529,6 +4529,14 @@ section.blog-section .blog-articles-container article.blog-article header.articl
   height: auto;
 }
 
+header.article-header .img-wrap2 {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 section.blog-section .blog-articles-container article.blog-article header.article-header .article-title {
   display: block;
   width: 100%;
