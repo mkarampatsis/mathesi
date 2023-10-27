@@ -783,6 +783,9 @@ table {
   .col-md-3 {
     width: 25%;
   }
+  .col-md-2-1 {
+    width: 20%;
+  }
   .col-md-2 {
     width: 16.66666667%;
   }
@@ -2980,6 +2983,13 @@ img {
   height: auto !important;
 }
 
+.img2 {
+  display: inline;
+  position: relative;
+  max-width: 100%;
+  height: auto !important;
+}
+
 blockquote {
   display: block;
   position: relative;
@@ -4529,14 +4539,6 @@ section.blog-section .blog-articles-container article.blog-article header.articl
   height: auto;
 }
 
-header.article-header .img-wrap2 {
-  display: block;
-  width: 80%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 section.blog-section .blog-articles-container article.blog-article header.article-header .article-title {
   display: block;
   width: 100%;
@@ -4702,7 +4704,8 @@ section.team-section .team-members-container .team-member .img-wrapper:after {
 }
 
 section.team-section .team-members-container .team-member .team-member-content {
-  padding: 30px 30px 20px 30px;
+  padding: 30px 0px 20px 0px;
+  text-align: center;
 }
 
 section.team-section .team-members-container .team-member .team-member-content h3.name {
@@ -4715,6 +4718,11 @@ section.team-section .team-members-container .team-member .team-member-content h
 
 section.team-section .team-members-container .team-member .team-member-content h4.tagline {
   font-size: 0.875rem;
+}
+
+section.team-section .team-members-container .team-member .team-member-content h4.email {
+  font-size: 0.875rem;
+  margin-top: 10px;
 }
 
 section.team-section .team-members-container .team-member .team-member-content .social-icons {

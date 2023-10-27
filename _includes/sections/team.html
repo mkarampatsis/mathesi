@@ -24,7 +24,7 @@
       {% for member in site.team %}
 
       <!-- Member -->
-      <div class="col-md-4 col-md-push-0 col-sm-6 col-sm-push-0 col-xs-6 col-xs-push-0">
+      <div class="col-md-2-1 col-md-push-0 col-sm-6 col-sm-push-0 col-xs-6 col-xs-push-0">
         <div class="team-member">
           <div class="img-wrapper">
             <img src="{{ site.baseurl }}/images/avatars/{{ member.avatar }}" alt="Avatar Team Member"/>
@@ -32,6 +32,7 @@
           <div class="team-member-content">
             <h3 class="name">{{ member.name }}</h3>
             <h4 class="tagline">{{ member.tagline }}</h4>
+            <h4 class="email">{{ member.email }}</h4>
             <div class="social-icons">
               <ul class="icons">
                 <!-- <li><a href="{{ member.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li>

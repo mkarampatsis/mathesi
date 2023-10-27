@@ -8,8 +8,8 @@ tags: []
 image: bridge2.jpg
 ---
 
-Gordie Howe International Bridge
-Predective Monitoring System
+Gordie Howe International Bridge:
+Predictive Monitoring System for advanced warning of extreme climatic conditions
 
 
 <blockquote cite="http://gleesik.ro">

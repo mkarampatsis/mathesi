@@ -138,7 +138,7 @@ mailchimp:
 # about-title: Data Inference for decision support based on ML Sense.
 about-title: About
 #about-description: We deliver a range of direct consulting services and tailor made applications for customer-specific demands by bridging massive data assets with intuitive AI frameworks, forming decision support solutions. Capitalizing on solid experience in multi-disciplinary high-profile engineering research, Infersence aims to establish new boundaries in AI exploitation within higher order complexity processes of diverse domains. Stay ahead of your competition by introducing Infersence’s added value to your practices.
-about-description: <p>Mathesi, derived from the Greek word "μάθηση" (pronounced "mathesi"), meaning "learning" or "knowledge," is a cutting-edge risk management and decision support enterprise specializing in the protection of infrastructure and short-term event predictions. Our mission is to improve safety and enhance the decision process in all environments.</p><p>We use state-of-the-art and proprietary data driven and physical models to hyperlocaly predict almost any risk-associated or financially beneficial parameter of interest, including meteorological conditions, infrequent hazardous conditions, system wear and fatigue, environmental quality, or any other similar parameter of interest.</p><p>Furthermore, we implement AI algorithms to automate decision processes.</p>
+about-description: <p>Mathesi, derived from the Greek word "μάθηση" (pronounced "mathesi"), meaning "learning" or "knowledge," is a cutting-edge risk management and decision support enterprise specializing in the protection of infrastructure and short-term event predictions. Our mission is to improve safety and enhance the decision process in all environments.</p><p>We use state-of-the-art and proprietary data-driven and physical models to predict almost any risk-associated or beneficial parameter or event of interest, including e.g., meteorological conditions, hazardous conditions, system wear and fatigue, environmental quality, extreme events, or any other similar.</p><p>Furthermore, we implement AI algorithms to automate decision processes.</p>
 
 #####################################
 #############  Features  ############
@@ -153,7 +153,7 @@ features:
 
 # Feature
 - title: Hyperlocal predictions
-  description: Continuous forecasting of multiple parameters locally
+  description: Continuous forecasting of multiple parameters
   icon: pe-7s-vector
 
 # Feature
@@ -163,7 +163,7 @@ features:
 
 # Feature
 - title: Early Warning and AI
-  description: Receive advanced warnings when fine-tuned thresholds and intervals are exceeded and calibrated AI for automated decisions
+  description: Receive advanced warnings when fine-tuned thresholds and intervals are exceeded. Utilize AI for automated decisions
   icon: pe-7s-airplay
 
 # Feature
@@ -250,7 +250,7 @@ optstructure-description: <p>A <a href="http://www.optistructure.eu/" target="_b
 ##########  Embryosense  ##########
 #####################################
 embryosense-title: Platform
-embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi App can be used directly through a complete, customizable and tailor-made browser-based UI.</p><p>Furthermore the power of the platform can be accessed using the Mathesi API allowing for headless integrations with existing monitoring and warning systems.</p>
+embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi App can be used directly through a complete, customizable and tailor-made browser-based UI.</p><p>Furthermore, the power of the platform can be accessed using the Mathesi API, allowing for seamless integration with existing monitoring and warning systems.</p>
 
 #####################################
 ##########  Research  ##########
@@ -335,8 +335,9 @@ team:
 
 # Team Member
 - name: Christos T. Georgakis
-  tagline: Board Member
+  tagline: Board <br> Member
   avatar: georgakis.png
+  email: georgakis@mathesi.com
 
   # Social Links
   youtube: '#'
@@ -349,8 +350,9 @@ team:
 
 # Team Member
 - name: Nikolaos Lagaros
-  tagline: Board Member
+  tagline: Board <br> Member
   avatar: lagaros.png
+  email: lagaros@mathesi.com
 
   # Social Links
   youtube: '#'
@@ -363,8 +365,9 @@ team:
 
 # Team Member
 - name: Cristoforo Demartino
-  tagline: Board Member
-  avatar: lagaros.png
+  tagline: Board <br> Member
+  avatar: demartino.png
+  email: demartino@mathesi.com
 
   # Social Links
   youtube: '#'
@@ -373,12 +376,13 @@ team:
   twitter: '#'
   google-plus: '#'
   vimeo: '#'
-  linkedin: https://gr.linkedin.com/in/nikos-lagaros-086323
+  linkedin: https://cn.linkedin.com/in/cristoforo-demartino-00257231
 
 # Team Member
 - name: Panteleimon Tsakalis
   tagline: Software Developer (Machine Learning)
   avatar: pantelis.png
+  email: tsakalis@mathesi.com
 
   # Social Links
   youtube: '#'
@@ -391,8 +395,9 @@ team:
 
 # Team Member
 - name: Ilias Chamatidis
-  tagline: Machine Learning Engineer
+  tagline: Machine Learning <br> Engineer
   avatar: chamatidis.png
+  email: chamatidis@mathesi.com
 
   # Social Links
   youtube: '#'
