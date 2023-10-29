@@ -250,7 +250,7 @@ optstructure-description: <p>A <a href="http://www.optistructure.eu/" target="_b
 ##########  Embryosense  ##########
 #####################################
 embryosense-title: Platform
-embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi App can be used directly through a complete, customizable and tailor-made browser-based UI.</p><p>Furthermore, the power of the platform can be accessed using the Mathesi API, allowing for seamless integration with existing monitoring and warning systems.</p>
+embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi App can be used directly through a complete, customizable and tailor-made browser-based UI.</p><p>Furthermore, the power of the platform can also be accessed using the Mathesi API, allowing for seamless integration with existing monitoring and warning systems.</p>
 
 #####################################
 ##########  Research  ##########
@@ -336,7 +336,7 @@ team:
 # Team Member
 - name: Christos T. Georgakis
   tagline: Board <br> Member
-  avatar: georgakis.png
+  avatar: georgakis2.jpg
   email: georgakis@mathesi.com
 
   # Social Links
@@ -351,7 +351,7 @@ team:
 # Team Member
 - name: Nikolaos Lagaros
   tagline: Board <br> Member
-  avatar: lagaros.png
+  avatar: lagaros2.png
   email: lagaros@mathesi.com
 
   # Social Links
@@ -366,7 +366,7 @@ team:
 # Team Member
 - name: Cristoforo Demartino
   tagline: Board <br> Member
-  avatar: demartino.png
+  avatar: demartino2.jpg
   email: demartino@mathesi.com
 
   # Social Links
@@ -381,7 +381,7 @@ team:
 # Team Member
 - name: Panteleimon Tsakalis
   tagline: Software Developer (Machine Learning)
-  avatar: pantelis.png
+  avatar: pantelis2.png
   email: tsakalis@mathesi.com
 
   # Social Links
@@ -396,7 +396,7 @@ team:
 # Team Member
 - name: Ilias Chamatidis
   tagline: Machine Learning <br> Engineer
-  avatar: chamatidis.png
+  avatar: chamatidis2.png
   email: chamatidis@mathesi.com
 
   # Social Links
