@@ -250,7 +250,7 @@ optstructure-description: <p>A <a href="http://www.optistructure.eu/" target="_b
 ##########  Embryosense  ##########
 #####################################
 embryosense-title: Platform
-embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi App can be used directly through a complete, customizable and tailor-made browser-based UI.</p><p>Furthermore, the power of the platform can also be accessed using the Mathesi API, allowing for seamless integration with existing monitoring and warning systems.</p>
+embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi App can be used directly through a complete, customizable and tailor-made browser-based UI.</p><p>The power of the platform can also be accessed using the Mathesi API, allowing for seamless integration with existing monitoring and warning systems.</p>
 
 #####################################
 ##########  Research  ##########
