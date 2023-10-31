@@ -379,7 +379,7 @@ team:
   linkedin: https://cn.linkedin.com/in/cristoforo-demartino-00257231
 
 # Team Member
-- name: Panteleimon Tsakalis
+- name: Panteleimon <br> Tsakalis
   tagline: Software Developer (Machine Learning)
   avatar: pantelis2.png
   email: tsakalis@mathesi.com
@@ -394,9 +394,9 @@ team:
   linkedin: 'https://www.linkedin.com/in/panteleimon-tsakalis-881ba413a/'
 
 # Team Member
-- name: Ilias Chamatidis
+- name: Ilias <br> Chamatidis
   tagline: Machine Learning <br> Engineer
-  avatar: chamatidis2.png
+  avatar: chamatidis3.jpg
   email: chamatidis@mathesi.com
 
   # Social Links
@@ -457,7 +457,7 @@ contact-description: Mathesi <br> Ullerødvej 9 2980 Kokkedal <br> support@mathe
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Mathesi - Protection of infrastructure system
+footer-description: Mathesi - Managing Risk and Gain through Desicion Support
 footer-copyright-text: Mathesi&trade;
 footer-copyright-url: http://www.mathesi.com/
 footer-copyright-year: 2023
