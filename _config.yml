@@ -395,8 +395,8 @@ team:
 
 # Team Member
 - name: Ilias <br> Chamatidis
-  tagline: Machine Learning <br> Engineer
-  avatar: chamatidis3.jpg
+  tagline: Machine Learning Engineer
+  avatar: chamatidis.jpg
   email: chamatidis@mathesi.com
 
   # Social Links
@@ -450,14 +450,14 @@ plan-ultimate-url: '#'
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: Mathesi <br> Ullerødvej 9 2980 Kokkedal <br> support@mathesi.com
+contact-description: <a href="mailto:support@mathesi.com">support@mathesi.com</a> <br> Copenhagen Denmark/Athens Greece <br> CVR 43939718
 
 
 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Mathesi - Managing Risk and Gain through Desicion Support
+footer-description: Mathesi - Managing Risk and Gain through Decision Support
 footer-copyright-text: Mathesi&trade;
 footer-copyright-url: http://www.mathesi.com/
 footer-copyright-year: 2023

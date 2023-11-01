@@ -4930,12 +4930,14 @@ section.prices-section .pricing-tables-container .pricing-table:hover {
  *  @package gleesik_layout
  *
  **/
-section.contact-section {
-  color: #f4f8f9;
+section.contact-section .section-content{
+  /* color: #f4f8f9; */
+  color:#2c3e50;
 }
 
 section.contact-section header.section-header h2, section.contact-section header.section-header h3, section.contact-section header.section-header h4 {
-  color: #fff;
+  /* color: #fff; */
+  color:#2c3e50;
 }
 
 section.contact-section header.section-header hr {

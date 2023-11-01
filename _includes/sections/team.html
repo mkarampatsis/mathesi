@@ -32,7 +32,9 @@
           <div class="team-member-content">
             <h3 class="name">{{ member.name }}</h3>
             <h4 class="tagline">{{ member.tagline }}</h4>
-            <h4 class="email">{{ member.email }}</h4>
+            <h4 class="email">
+              <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+            </h4>
             <div class="social-icons">
               <ul class="icons">
                 <!-- <li><a href="{{ member.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li>
