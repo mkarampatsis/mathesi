@@ -138,7 +138,7 @@ mailchimp:
 # about-title: Data Inference for decision support based on ML Sense.
 about-title: About
 #about-description: We deliver a range of direct consulting services and tailor made applications for customer-specific demands by bridging massive data assets with intuitive AI frameworks, forming decision support solutions. Capitalizing on solid experience in multi-disciplinary high-profile engineering research, Infersence aims to establish new boundaries in AI exploitation within higher order complexity processes of diverse domains. Stay ahead of your competition by introducing Infersence’s added value to your practices.
-about-description: <p>Mathesi, derived from the Greek word "μάθηση" (pronounced "mathesi"), meaning "learning" or "knowledge," is a cutting-edge risk management and decision support enterprise specializing in the protection of infrastructure and short-term event predictions. Our mission is to improve safety and enhance the decision process in all environments.</p><p>We use state-of-the-art and proprietary data-driven and physical models to predict almost any risk-associated or beneficial parameter or event of interest, including e.g., meteorological conditions, hazardous conditions, system wear and fatigue, environmental quality, extreme events, or any other similar.</p><p>Furthermore, we implement AI algorithms to automate decision processes.</p>
+about-description: <p>Mathesi, derived from the Greek word "μάθηση" (pronounced "mathesi"), meaning "learning" or "knowledge," is a cutting-edge risk management and decision support enterprise, specializing in the protection of the built environment and short-term event predictions. Our mission is to improve safety and enhance the decision process in any condition.</p><p>We use state-of-the-art and proprietary data-driven and physical models to predict almost any risk-associated or beneficial parameter, including e.g., meteorological conditions, extreme events, system wear and fatigue, environmental quality, or similar.</p><p>Furthermore, we implement AI models to automate decision processes.</p>
 
 #####################################
 #############  Features  ############
@@ -162,8 +162,8 @@ features:
   icon: pe-7s-help2
 
 # Feature
-- title: Early Warning and AI
-  description: Receive advanced warnings when fine-tuned thresholds and intervals are exceeded. Utilize AI for automated decisions
+- title: Early Warning
+  description: Receive advanced warnings when fine-tuned thresholds and intervals are exceeded. Utilize AI models for automated decisions
   icon: pe-7s-airplay
 
 # Feature
@@ -250,7 +250,7 @@ optstructure-description: <p>A <a href="http://www.optistructure.eu/" target="_b
 ##########  Embryosense  ##########
 #####################################
 embryosense-title: Platform
-embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi App can be used directly through a complete, customizable and tailor-made browser-based UI.</p><p>The power of the platform can also be accessed using the Mathesi API, allowing for seamless integration with existing monitoring and warning systems.</p>
+embryosense-description: <p>The services of Mathesi are offered through a cloud application. The Mathesi platform can be used directly through a complete, customizable and tailor-made browser-based UI, designed to be fully adaptable to various requirements and workflows.</p><p>The power of the platform can also be accessed using the Mathesi API, allowing for seamless integration with existing monitoring and warning systems.</p>
 
 #####################################
 ##########  Research  ##########
@@ -395,7 +395,7 @@ team:
 
 # Team Member
 - name: Ilias <br> Chamatidis
-  tagline: Machine Learning Engineer
+  tagline: Machine <br> Learning Engineer
   avatar: chamatidis.jpg
   email: chamatidis@mathesi.com
 
@@ -450,7 +450,7 @@ plan-ultimate-url: '#'
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: <a href="mailto:support@mathesi.com">support@mathesi.com</a> <br> Copenhagen Denmark/Athens Greece <br> CVR 43939718
+contact-description: <a href="mailto:support@mathesi.com">support@mathesi.com</a> <br> Copenhagen Denmark/Athens Greece <br> CVR. DK 43939718
 
 
 
